@@ -1,0 +1,1 @@
+window.alert("Hello, welcome to WowTube. If you are under 8 years old. Please visit WowTube Kids")
